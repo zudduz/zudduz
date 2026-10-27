@@ -8,7 +8,7 @@ I am a 25-Year Software Veteran with master-level expertise in the Java ecosyste
 * Optimized backend microservices by reducing the duration of copying a project from 43 minutes to 16 seconds.
 * Researched and implemented database level replication, resulting in a 97-fold performance improvement without changing existing code.
 * Simplified architecture by replacing an expensive Flume/Kudu/Spark cluster with existing Spring and PostgreSQL servers.
-* sudo L7 Benchmark contributor
+* sudo L7 Benchmark contributor.
 
 ## Current AI & R&D Focus
 * **Chicken Scratch:** Architecting a game engine for AI-driven group games played via the Discord interface.
